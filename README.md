@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![alt text](https://i.ibb.co/FhJxTD2/Screen-Shot-2020-09-14-at-8-56-37-PM.png)
 
 ## Available Scripts
 
